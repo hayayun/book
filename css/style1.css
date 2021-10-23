@@ -1,0 +1,17 @@
+@charset "utf-8";
+.style_header {
+	font-family: "华文仿宋";
+	font-size: xx-large;
+	line-height: 50px;
+	color: #C94F7A;
+	text-align: center;
+	vertical-align: text-top;
+}
+.style_header {
+	font-family: "宋体";
+	font-size: xx-large;
+	line-height: 40px;
+	color: #E26EA0;
+	text-align: center;
+	vertical-align: text-top;
+}

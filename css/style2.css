@@ -1,0 +1,12 @@
+@charset "utf-8";
+.style_text {
+	font-family: "宋体";
+	font-size: larger;
+	line-height: 40px;
+	color: #D67D75;
+	text-align: center;
+	vertical-align: text-top;
+}
+.style_header h1 {
+	color: #D45995;
+}
